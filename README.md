@@ -24,6 +24,6 @@ The code also includes the initialization and configuration of various Swing com
 Overall, the code provides basic functionality for loading and saving files, modifying text (e.g., changing case, replacing text), formatting text (e.g., changing font style, size), and counting words and characters.
 
 
-HOW TO USE
+# HOW TO USE
 
 Open any IDE like Eclipse or NetBeans and just run the code, you're good to go.
